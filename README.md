@@ -65,7 +65,7 @@ const danish = {
 
 ### 🌐 Portfolio Website
 
-<a href="https://github.com/shaikhdanish-create/portfolio-website">
+<a href="https://danishalmerportfolio-website.vercel.app/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhdanish-create&repo=portfolio-website&theme=midnight-purple&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd" />
 </a>
 
