@@ -25,7 +25,7 @@ const danish = {
     languages:     ["Python", "SQL"],
     data:          ["Pandas", "NumPy"],
     database:      ["Database Management Systems"],
-    ai:            ["Google Gemini", "AI Development", "Code Intelligence"],
+    ai:            ["Google Gemini", "AI Development", "Code Intelligence"], 
   },
   launchedProjects: [
     "AI Code Review System — Automated intelligent code review using AI",
